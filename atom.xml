@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanqid.github.io</id>
-    <title>Hexo</title>
+    <title>Never Stop</title>
     <subtitle></subtitle>
     <icon>https://yanqid.github.io/images/favicon.ico</icon>
     <link href="https://yanqid.github.io" />
     <author>
-      <name>John Doe</name>
+      <name>yANqId</name>
     </author>
     <updated>2024-03-13T14:13:05.993Z</updated>
     <entry>
